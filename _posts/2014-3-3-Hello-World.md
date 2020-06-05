@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why am I even doing this?
-published: false
+published: true
 ---
 
 One of these days I was working with brilinat team of young engineers, who despite being good professionals knew nothing aobut the discipline I started to fell in love with back then: functional programming. They tend to write software in old good imperative way and seem not to pay attention to my efforts in introducing functional concepts. What I realised quickly is that they just never heard about FP nor met someone who could explain this approach and its benefits. 
