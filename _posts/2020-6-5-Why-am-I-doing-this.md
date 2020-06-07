@@ -12,3 +12,5 @@ Sometime later I decided to leave that company, but my mission was far from over
 So here I am. Learning. Teaching maybe. Preaching for sure. Exploring to make me grow my own understanding of Functional Programming. Trying to help people already discouraged to find a place for FP in their toolbox. Hopeing it will make all of us better engineers. 
 
 Let's not waste more time. The functional adventure awaits!
+
+![A cat](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/close-up-of-cat-wearing-sunglasses-while-sitting-royalty-free-image-1571755145.jpg)
