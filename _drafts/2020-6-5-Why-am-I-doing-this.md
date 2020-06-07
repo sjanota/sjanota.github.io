@@ -1,16 +1,20 @@
 ---
 layout: post
-title: Why am I even doing this?
+title: Join in the joyride
 published: false
 ---
-One of these days I was working with a brilliant team of young engineers, who despite being good professionals knew nothing about the discipline I started to fell in love with: Functional Programming. They tended to write software in an ol' good imperative way and seemed not to pay attention to my efforts in introducing functional concepts. What I realized quickly is that they just never heard about FP nor met someone who could explain this approach and its benefits. 
+Dear Reader
 
-So I set myself a goal: I will be their teacher and togheter we will grow our functional skills to match those of programming gods. Easier said than done. When I started preparing the "lessons" one  obstacle got in my way: my knowledge was too incomplete and dispersed. I was not able to prepare a single session that was valuable and understandable. Well, time to change the strategy then. I needed to educate myself first.
+Now that you landed here, you probably wonder what is this place. Is it Yet Another Blog On Functional Programming? What can I expect from this site? Is it even for me? Well, let me tell you my story so you can find the answer yourself.
 
-Sometime later I decided to leave that company, but my mission was far from over and I needed new ways of communication with my former team. In meanwhile, I've met and discovered a lot more people who never had a chance to read about FP comprehensively and just put label #sorcery on it never giving it a try. 
+One of these days I was working with a brilliant team of young engineers. Despite being good professionals they knew nothing about the discipline I started to fell in love with: functional programming. They tended to write software in a good old imperative way and didn't get functional concepts. But they were curious enough to ask questions. Some code reviews later I realized that they just had never heard about FP nor met someone who could explain this approach and its benefits. 
 
-So here I am. Learning. Teaching maybe. Preaching for sure. Exploring to make me grow my own understanding of Functional Programming. Trying to help people already discouraged to find a place for FP in their toolbox. Hopeing it will make all of us better engineers. 
+So I set myself a goal: I will be their teacher and togheter we will grow our functional skills to match those of programming gods. As usual, easier said than done. Life likes apparently to remind me about the meaning of humility. When I started to prepare "lessons" one obstacle immediately got in my way: my knowledge was too incomplete and dispersed. I was not able to prepare a single session that was valuable and understandable. I had to change the strategy and educate myself first.
+
+At about the same time, I decided to leave that company. However, my mission was far from over and I needed new means of communication with my former team. I also noticed how many people like them are around me, even among my friends and family members. People who have never heard of functional programming or have, but put label #sorcery on it on the first sight. People who never had a chance to improve their coding skills by bringing functional ideas into their programming toolbox. I just wanted to help all of them see the benefits of FP or at least have a chance to understand the concepts of FP and make a conscious choice when discarding it.
+
+That's why you, Dear Reader, are reading these words. I decided to create a blog where I can share my passion for functional programming with people who never had a chance to see it in action. I'd like to create a place where it is OK not to know and understand, but you can always find help. A place where you can find exercises to sharpen your skills and learn new concepts to enhance your functional style. And I want to explore The Functional Wilds with you learning as much as possible.
+
+I'm embarking on an illuminating, never-ending adventure for being a better engineer. If you're curious about how to evolve your coding style and make programming feel like never before then jump in and join the joyride. I'd like to learn togheter with anyone eager to try thinking in functions.
 
 Let's not waste more time. The functional adventure awaits!
-
-![A cat](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/close-up-of-cat-wearing-sunglasses-while-sitting-royalty-free-image-1571755145.jpg)
