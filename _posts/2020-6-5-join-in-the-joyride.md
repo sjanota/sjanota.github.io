@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Join in the joyride
-published: true
+published: false
 ---
 Dear Reader,
 
